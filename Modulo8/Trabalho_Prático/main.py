@@ -3,7 +3,7 @@ from collections import namedtuple
 from rich.console import Console
 from rich.prompt import Prompt
 from rich.panel import Panel
-
+#Olá criei esse script como ideia para uma loja de aluguel de equipamentos 
 # Constantes
 ARQUIVO_EQUIPAMENTOS = 'equipamentos.csv'
 USUARIO_LOGADO = None
